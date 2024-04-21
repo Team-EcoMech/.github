@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="Logo.png" alt="Wind Turbine" width="200">
-  <h1 style="display: inline-block; margin-left: 20px;"> Advanced Evaluation and Optimization of Wind Turbine Configurations for Efficient Expressway Power Harvesting </h1>
+  <h1 style="display: inline-block; margin-left: 20 px;"> Advanced Evaluation and Optimization of Wind Turbine Configurations for Efficient Expressway Power Harvesting </h1>
   <h3> 🛣️ From Traffic to Energy 💡 </h3>
 </div>
 
